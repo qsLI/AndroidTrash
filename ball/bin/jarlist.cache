@@ -1,0 +1,13 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1429782160000 90769 d7e17662c3c6d3ca342a57652947bbcd8a67bc9a D:\code\java\hadoop\workspace\ball\libs\drawee-v0.4.0.jar
+1429782160000 90769 d7e17662c3c6d3ca342a57652947bbcd8a67bc9a D:\code\java\hadoop\workspace\frescolib-v0.4.0\frescolib\drawee\libs\drawee-v0.4.0.jar
+1431570182274 758727 efec67655f6db90757faa37201efcee2a9ec3507 D:\code\java\hadoop\workspace\ball\libs\android-support-v4.jar
+1431570182274 758727 efec67655f6db90757faa37201efcee2a9ec3507 D:\code\java\hadoop\workspace\frescolib-v0.4.0\frescolib\imagepipeline\libs\android-support-v4.jar
+1429782198000 9088 df1d19ffd5bf419ac873e46e38dd8ad2ad418d34 D:\code\java\hadoop\workspace\ball\libs\fresco-v0.4.0.jar
+1429782198000 9088 df1d19ffd5bf419ac873e46e38dd8ad2ad418d34 D:\code\java\hadoop\workspace\frescolib-v0.4.0\frescolib\fresco\libs\fresco-v0.4.0.jar
+1429782196000 423015 49781e30ff63790fd279eaa920ead5aff2a523aa D:\code\java\hadoop\workspace\frescolib-v0.4.0\frescolib\imagepipeline\libs\imagepipeline-v0.4.0.jar
+1429782196000 423015 49781e30ff63790fd279eaa920ead5aff2a523aa D:\code\java\hadoop\workspace\ball\libs\imagepipeline-v0.4.0.jar
+1429782156000 118597 ce3ade9267254f83caa1faf671b1c7b92f2feb64 D:\code\java\hadoop\workspace\ball\libs\fbcore-v0.4.0.jar
+1429782156000 118597 ce3ade9267254f83caa1faf671b1c7b92f2feb64 D:\code\java\hadoop\workspace\frescolib-v0.4.0\frescolib\fbcore\libs\fbcore-v0.4.0.jar

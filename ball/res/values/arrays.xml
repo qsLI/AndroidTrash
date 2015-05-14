@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item>深入浅出设计模式</item>
+        <item>大话设计模式</item>
+        <item>大话数据结构</item>
+        <item>红楼梦</item>
+        <item>水浒传</item>
+    </string-array>
+</resources>
